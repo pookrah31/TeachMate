@@ -1,0 +1,13 @@
+# Created by venv
+.venv/
+
+__pycache__/
+*.py[cod]
+
+.env
+*.log
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
